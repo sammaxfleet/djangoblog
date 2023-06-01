@@ -33,7 +33,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ["mb2test.herokuapp.com", "localhost",
+ALLOWED_HOSTS = ['djangoblog23.herokuapp.com', "localhost",
                  '8000-sammaxfleet-djangoblog-yu6t46n593.us2.codeanyapp.com']
 
 # Application definition
